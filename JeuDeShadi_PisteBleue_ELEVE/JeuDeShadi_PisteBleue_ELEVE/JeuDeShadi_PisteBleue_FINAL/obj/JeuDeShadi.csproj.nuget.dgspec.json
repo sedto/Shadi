@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj": {}
+    "c:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj": {
+    "c:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj",
+        "projectUniqueName": "c:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj",
         "projectName": "JeuDeShadi",
-        "projectPath": "C:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj",
+        "projectPath": "c:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\JeuDeShadi.csproj",
         "packagesPath": "C:\\Users\\pf86ufr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\obj\\",
+        "outputPath": "c:\\Users\\pf86ufr\\OneDrive - Education Vaud\\P_Prog\\Shadi\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_ELEVE\\JeuDeShadi_PisteBleue_FINAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

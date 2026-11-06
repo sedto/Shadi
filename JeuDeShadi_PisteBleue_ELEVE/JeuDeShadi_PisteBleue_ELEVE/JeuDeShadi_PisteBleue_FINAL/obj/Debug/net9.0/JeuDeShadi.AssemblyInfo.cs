@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JeuDeShadi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49979108ab34590fd787172d9b85e66495389312")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3c48291827ea7808850a5a1c1810889bc0b083e")]
 [assembly: System.Reflection.AssemblyProductAttribute("JeuDeShadi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JeuDeShadi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
