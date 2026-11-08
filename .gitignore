@@ -1,0 +1,16 @@
+# Build .NET / MonoGame (régénérés sur chaque machine)
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
