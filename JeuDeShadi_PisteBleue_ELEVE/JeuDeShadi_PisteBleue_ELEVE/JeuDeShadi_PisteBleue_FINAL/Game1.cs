@@ -176,8 +176,6 @@ namespace JeuDeShadi
                     }
                 }
             }
-
-
             // CODE FOURNI : remet l'état général de la partie à zéro.
             ReinitialiserEtatPartie();
         }
