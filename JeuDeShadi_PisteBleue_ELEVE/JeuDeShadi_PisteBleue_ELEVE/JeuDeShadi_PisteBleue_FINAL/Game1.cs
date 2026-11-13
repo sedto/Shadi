@@ -163,16 +163,19 @@ namespace JeuDeShadi
             // 5. Si la ligne est comprise entre 6 et 9, placer un pion BLANC.
             //
             // Exemple de structure attendue :
-            // for (...)
-            // {
-            //     for (...)
-            //     {
-            //         if (...)
-            //         {
-            //             ...
-            //         }
-            //     }
-            // }
+             for (int x = 0; x < TailleGrille; x++)
+            {
+                for (int y = 0; y < TailleGrille; y++)
+                {
+                    if ((x + y) % 2 == 0)
+                    {
+                        if (y >= 0 && y <= 3)
+                            plateauDeJeu[x, y] = NOIR;
+                        if (y >= 6 && y <= 9)
+                            plateauDeJeu[x, y] = BLANC;
+                    }
+                }
+            }
 
 
             // CODE FOURNI : remet l'état général de la partie à zéro.
